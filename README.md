@@ -20,3 +20,10 @@
 - Styles and Themes
 
 > [W03_Challenge01.xlsx](https://1drv.ms/x/s!AjK1euPQeRS8gRGX810lvyopujv3?e=x9bh8y)
+
+#### <u>**Week 4**</u>
+- Find and Replace
+- Filtering & Sorting
+- Conditional Formatting
+
+> [W04-Challenge-1.xlsx](https://1drv.ms/x/s!AjK1euPQeRS8gRTHK8EaKHz8Sr4T)
