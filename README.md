@@ -27,3 +27,10 @@
 - Conditional Formatting
 
 > [W04-Challenge-1.xlsx](https://1drv.ms/x/s!AjK1euPQeRS8gRTHK8EaKHz8Sr4T)
+
+#### <u>**Week 5**</u>
+- Print Preview: Orientations, Margins & Scale
+- Page Breaks
+- Headers and Footers
+
+> [W05-Challenge-1.xlsx](https://1drv.ms/x/s!AjK1euPQeRS8gRcG0JveckKd7MH4?e=vB2MPG)
