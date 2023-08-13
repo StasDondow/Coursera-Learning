@@ -1,1 +1,43 @@
-# Coursera-Learning
+## **Excel Skills for Business: Essentials**
+
+#### <u>**Week 1**</u>
+- Select and Navigate
+- Change View Options
+- Enter Data
+
+#### <u>**Week 2**</u>
+- Simple formulas (Average, Min, Max)
+- Absolute Cell Refs
+- Calculate Across Sheets
+
+> [W02_Challenge02.xlsx](https://1drv.ms/x/s!AjK1euPQeRS8gQZuLtBM9rEYrqck?e=01hfzr) <br>
+> [W02_Challenge03.xlsx](https://1drv.ms/x/s!AjK1euPQeRS8gQikc970DYYDivpv?e=e1Rnjl) <br>
+> [W02_Assessment.xlsx](https://1drv.ms/x/s!AjK1euPQeRS8gQQKiznH2sjrVMt0?e=MYekkz)
+
+#### <u>**Week 3**</u>
+- Format Painter
+- Number Formats
+- Styles and Themes
+
+> [W03_Challenge01.xlsx](https://1drv.ms/x/s!AjK1euPQeRS8gRGX810lvyopujv3?e=x9bh8y)
+
+#### <u>**Week 4**</u>
+- Find and Replace
+- Filtering & Sorting
+- Conditional Formatting
+
+> [W04-Challenge-1.xlsx](https://1drv.ms/x/s!AjK1euPQeRS8gRTHK8EaKHz8Sr4T)
+
+#### <u>**Week 5**</u>
+- Print Preview: Orientations, Margins & Scale
+- Page Breaks
+- Headers and Footers
+
+> [W05-Challenge-1.xlsx](https://1drv.ms/x/s!AjK1euPQeRS8gRcG0JveckKd7MH4?e=vB2MPG)
+
+#### <u>**Week 6**</u>
+- Basic Chart Types: Pie, Column & Line Charts
+- Change Chart Style & Type
+- Modify Chart Elements
+
+> [W06-Challenge-1.xlsx](https://1drv.ms/x/s!AjK1euPQeRS8gSQykCwAkz3ckElq?e=ekOk0y)
