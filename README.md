@@ -34,3 +34,10 @@
 - Headers and Footers
 
 > [W05-Challenge-1.xlsx](https://1drv.ms/x/s!AjK1euPQeRS8gRcG0JveckKd7MH4?e=vB2MPG)
+
+#### <u>**Week 6**</u>
+- Basic Chart Types: Pie, Column & Line Charts
+- Change Chart Style & Type
+- Modify Chart Elements
+
+> [W06-Challenge-1.xlsx](https://1drv.ms/x/s!AjK1euPQeRS8gSQykCwAkz3ckElq?e=ekOk0y)
